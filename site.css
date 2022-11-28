@@ -2,7 +2,8 @@
 .text-start {text-align: left;}
 .text-center {text-align: center;}
 .text-end {text-align: right;}
-.container {text-align: left;}
+.container {text-align: left; font-size: 1rem !important;
+    line-height: 1.35 !important;}
 
 /*!
  * Bootstrap Grid v5.2.3 (https://getbootstrap.com/)
