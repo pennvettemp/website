@@ -5,6 +5,16 @@
 .container {text-align: left; font-size: 1rem !important;
     line-height: 1.35 !important;}
 
+.img-fluid {width: 100%; max-width: 100%; height: auto;}
+
+.text-end {text-align: right;}
+.text-start {text-align: left;}
+.text-center {text-align: center;}
+
+.bg-danger {background-color: #b41717; color: #ffffff}
+.bg-sucess {background-color: #33810d; color: #ffffff;}
+.bg-info {background-color: #bae3a6; color: #222;}
+
 /*!
  * Bootstrap Grid v5.2.3 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
